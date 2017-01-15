@@ -27,4 +27,4 @@ All communication outside of GitHub happens on Slack. Everybody will have access
 
 ---
 
-### Next section: [Workflow](04-meetings.md)
+### Next section: [Meetings](04-meetings.md)
