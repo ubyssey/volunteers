@@ -43,3 +43,7 @@ Our newest project aims to deliver the news in a new way. We plan to build a cha
 __Repo:__ https://github.com/ubyssey/chatbot
 
 __Wiki:__ https://github.com/ubyssey/chatbot/wiki
+
+---
+
+## Next section: [Workflow](workflow/)
