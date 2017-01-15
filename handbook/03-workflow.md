@@ -19,3 +19,8 @@ To demonstrate how we use GitHub, I'll step through the process of completing an
 4. As they work on the assignment, the contributor may run into problems or require further clarification about the task. They can go back to the issue and leave a comment asking for help, and anybody else on the team can join the discussion.
 
 4. After the contributor has made the necessary changes, they open a pull request (PR) from their branch into the default branch. Anybody can then review the pull request and leave comments. Once the code is given a the go-ahead from soembody else on the team, it can be merged and the branch can be deleted.
+
+
+### Slack Workflow
+
+All communication outside of GitHub happens on Slack. Everybody will have access to the `#web-volunteers` channel, where we will be posting updates about assignments, meetings, and anything else related to the web team. Contributors are also encouraged to DM each other to discuss assignments.
