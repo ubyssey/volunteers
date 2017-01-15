@@ -46,4 +46,4 @@ __Wiki:__ https://github.com/ubyssey/chatbot/wiki
 
 ---
 
-## Next section: [Workflow](workflow/)
+### Next section: [Workflow](workflow.md)
