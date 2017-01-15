@@ -16,4 +16,6 @@ To demonstrate how we use GitHub, I'll step through the process of completing an
 
 3. The contributor creates a new branch that is specific to that issue. Any code for that assignment must be added in that branch. It is customary to prefix the branch name with the issue number (i.e. `65-broken-link`).
 
-4. The contributor makes the necessary changes 
+4. As they work on the assignment, the contributor may run into problems or require further clarification about the task. They can go back to the issue and leave a comment asking for help, and anybody else on the team can join the discussion.
+
+4. After the contributor has made the necessary changes, they open a pull request (PR) from their branch into the default branch. Anybody can then review the pull request and leave comments. Once the code is given a the go-ahead from soembody else on the team, it can be merged and the branch can be deleted.
