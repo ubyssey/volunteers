@@ -24,3 +24,7 @@ To demonstrate how we use GitHub, I'll step through the process of completing an
 ### Slack Workflow
 
 All communication outside of GitHub happens on Slack. Everybody will have access to the `#web-volunteers` channel, where we will be posting updates about assignments, meetings, and anything else related to the web team. Contributors are also encouraged to DM each other to discuss assignments.
+
+---
+
+### Next section: [Workflow](04-meetings.md)
