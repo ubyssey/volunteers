@@ -41,3 +41,5 @@ __Repo:__ https://github.com/ubyssey/salarydb
 Our newest project aims to deliver the news in a new way. We plan to build a chat bot app using Facebook's Messenger API that will send information about campus news to students in a fun, conversational way. The project will be a combination of web development and machine learning, with lots of room for experimentation!
 
 __Repo:__ https://github.com/ubyssey/chatbot
+
+__Wiki:__ https://github.com/ubyssey/chatbot/wiki
