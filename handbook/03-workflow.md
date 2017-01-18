@@ -2,7 +2,7 @@
 
 _How we get stuff done on the web team_
 
-School is busy and everybody has different schedules, so it's sometimes hard to work on a large team. Apart from weekly meetings, we rarely see everybody in one place. To improve our effeciency and make communication easier, we use Slack and GitHub to stay connected throughout the school week.
+School is busy and everybody has different schedules, so it's sometimes hard to work on a large team. Apart from weekly meetings, we rarely see everybody in one place. To improve our efficiency and make communication easier, we use Slack and GitHub to stay connected throughout the school week.
 
 ### GitHub Workflow
 
@@ -18,7 +18,7 @@ To demonstrate how we use GitHub, I'll step through the process of completing an
 
 4. As they work on the assignment, the contributor may run into problems or require further clarification about the task. They can go back to the issue and leave a comment asking for help, and anybody else on the team can join the discussion.
 
-4. After the contributor has made the necessary changes, they open a pull request (PR) from their branch into the default branch. Anybody can then review the pull request and leave comments. Once the code is given a the go-ahead from soembody else on the team, it can be merged and the branch can be deleted.
+4. After the contributor has made the necessary changes, they open a pull request (PR) from their branch into the default branch. Anybody can then review the pull request and leave comments. Once the code is given the go-ahead from somebody else on the team, it can be merged and the branch can be deleted.
 
 
 ### Slack Workflow
