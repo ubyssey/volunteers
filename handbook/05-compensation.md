@@ -10,5 +10,5 @@ Each point will be worth $10 CAD. Therefore, if a volunteer accumulates 5 points
 
 **To be eligible for compensation, volunteers must:**
 
-1. Regularily attend weekly meetings
+1. Regularly attend weekly meetings
 2. Complete at least 3 tasks
