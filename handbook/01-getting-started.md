@@ -10,16 +10,6 @@ Want to help build The Ubyssey's web platform? Here's how to start.
 
 4. Start writing code!
 
-## Resources
-
-Here's a list of useful resources for getting started with web development at The Ubyssey.
-
-- Django getting started tutorial - https://www.djangoproject.com/start/
-
-- React intro tutorial - https://facebook.github.io/react/docs/installation.html
-
-- D3.js tutorials - http://alignedleft.com/tutorials/d3/
-
 ## Handbook
 
 1. [Getting Started](01-getting-started.md)
@@ -31,3 +21,5 @@ Here's a list of useful resources for getting started with web development at Th
 4. [Meetings](04-meetings.md)
 
 5. [Compensation](05-compensation.md)
+
+6. [Resources](06-resources.md)
