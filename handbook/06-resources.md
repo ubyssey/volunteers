@@ -2,7 +2,7 @@
 
 Here's a list of useful resources for getting started with web development at _The Ubyssey_.
 
-Before you use these resources, sign up for a Codecademy account: https://www.codecademy.com/register
+Before you use these links, sign up for a Codecademy account: https://www.codecademy.com/register
 
 ### HTML & CSS
 
