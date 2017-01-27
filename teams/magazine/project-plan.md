@@ -2,7 +2,7 @@
 
 The project is going to be divided into two phases: **design** and **development**.
 
-### Design
+### Design (1 week)
 
 We talked about how we want to structure the microsite and came up with the following:
 
@@ -38,7 +38,7 @@ We want some way of navigating from one article to another. This could be accomp
 
 We need a consistent header and footer across all pages that links back to the magazine landing page, as well as the main Ubyssey site.
 
-### Development
+### Development (2 weeks)
 
 We'll be working out of the `ubyssey-dispatch-theme` repository.
 
