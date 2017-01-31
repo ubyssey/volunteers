@@ -23,3 +23,7 @@ Follow a day-in-the-life of UBC commuter students from different parts of the Lo
 Present 3-4 parallel journeys on a timeline (Adam gets up at 730 in his Kitsilano basement suite -- meanwhile, Sally is already on the bus in Richmond).
 
 Include plenty of multimedia -- photos, videos, audio recordings.
+
+### Where to get coffee on campus
+
+User enters a series of preferences (price, quality, etc) and we show them where they should go to grab a cup of joe.
