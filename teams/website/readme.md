@@ -19,7 +19,7 @@ The first 10-15 minutes of each meeting will be spent going over assignments and
 
 **Check-ins**
 
-Weekly meetings will include a mandatory check-in from each team member. To check in, you simply have to let the project lead know (Cindy) what you're working on and how much progress you've made. If you haven't made much progress (or none at all), don't worry about it -- this is mainly just to make sure everybody's on the same page.
+Weekly meetings will include a mandatory check-in from each team member. To check in, you simply have to let the project lead (Cindy) know what you're working on and how much progress you've made. If you haven't made much progress (or none at all), don't worry about it -- this is mainly just to make sure everybody's on the same page.
 
 **Meetings are not mandatory -- if you can't make it, just check-in over Slack on the day of the meeting.**
 
